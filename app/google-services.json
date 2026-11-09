@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577908055597",
+    "project_id": "warships-rg2",
+    "storage_bucket": "warships-rg2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577908055597:android:c2a7806d1a14adc89ce2a4",
+        "android_client_info": {
+          "package_name": "com.example.warships_rg"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Hh5S6m-tDzD_dBClrJT5_3gY-7S41qQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
